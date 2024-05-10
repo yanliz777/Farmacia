@@ -49,7 +49,7 @@ public class SystemView extends javax.swing.JFrame
         customer_acount.listALLCustomers();//Para que liste los clientes cuando se active esta ventana
         
         //controlador de proveedores/suppliers:
-        //SuppliersController supplier_acount = new SuppliersController(supplier, suppliersDao, this);
+        SuppliersController supplier_acount = new SuppliersController(supplier, suppliersDao, this);
     }
 
     public String titleInterface(){
