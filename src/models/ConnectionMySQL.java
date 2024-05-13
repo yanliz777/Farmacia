@@ -7,9 +7,9 @@ import java.sql.SQLException;
 //clase que me permite conectarme a la base de datos
 public class ConnectionMySQL
 {
-    private String database_name = "pharmacy_database";//nombre de mi base de datos
-    private String user = "root";
-    private String password = "yan2412";
+    private final String database_name = "pharmacy_database";//nombre de mi base de datos
+    private final String user = "root";
+    private String password = "1999";
     private String url = "jdbc:mysql://localhost:3306/" + database_name;
     Connection conn = null;
     
