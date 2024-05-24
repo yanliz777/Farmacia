@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/YAN%20FRANCO/OneDrive/Escritorio/Carpeta%20Universidad/carpeta_Autodidacta/Farmacia/src/controllers/SuppliersController.java</file>
+            <file>file:/C:/Users/YAN%20FRANCO/OneDrive/Escritorio/Carpeta%20Universidad/carpeta_Autodidacta/Farmacia/src/models/CustomersDao.java</file>
             <file>file:/C:/Users/YAN%20FRANCO/OneDrive/Escritorio/Carpeta%20Universidad/carpeta_Autodidacta/Farmacia/src/models/EmployeesDao.java</file>
+            <file>file:/C:/Users/YAN%20FRANCO/OneDrive/Escritorio/Carpeta%20Universidad/carpeta_Autodidacta/Farmacia/src/controllers/EmployeesController.java</file>
+            <file>file:/C:/Users/YAN%20FRANCO/OneDrive/Escritorio/Carpeta%20Universidad/carpeta_Autodidacta/Farmacia/src/models/Employees.java</file>
             <file>file:/C:/Users/YAN%20FRANCO/OneDrive/Escritorio/Carpeta%20Universidad/carpeta_Autodidacta/Farmacia/src/views/SystemView.java</file>
         </group>
     </open-files>
